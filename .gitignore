@@ -1,2 +1,5 @@
-./out
-./artefact
+out
+artefact
+
+.class
+.jar
