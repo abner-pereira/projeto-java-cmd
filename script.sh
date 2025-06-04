@@ -1,3 +1,4 @@
+#!/usr/bin/bash
 echo "Log: Iniciando compilação."
 rm -rf ./out
 cd ./src
